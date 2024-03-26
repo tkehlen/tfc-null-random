@@ -1,4 +1,4 @@
 variable "name" {
   description = "name to pass to Name tag"
-  default     = "tfc-null-random-id-"
+  default     = "null-random-id-"
 }
